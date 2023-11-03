@@ -21,13 +21,13 @@
     "expo-hyperpay",
     "ExpoHyperpay"
   ],
-  "repository": "https://github.com/aalbaharnah/expo-hyperpay",
+  "repository": "https://github.com/aalbaharnah/react-native-expo-hyperpay",
   "bugs": {
-    "url": "https://github.com/aalbaharnah/expo-hyperpay/issues"
+    "url": "https://github.com/aalbaharnah/react-native-expo-hyperpay/issues"
   },
   "author": "aalbaharnah <baharnah.13@gmail.com> (https://github.com/aalbaharnah)",
   "license": "MIT",
-  "homepage": "https://github.com/aalbaharnah/expo-hyperpay#readme",
+  "homepage": "https://github.com/aalbaharnah/react-native-expo-hyperpay#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/react": "^18.0.25",
